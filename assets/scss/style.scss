@@ -1,0 +1,13 @@
+.hero-slider {
+    position: relative;
+
+    &-card {
+        position: absolute;
+
+        & img {
+            max-width: 100%;
+        }
+
+
+
+    }
